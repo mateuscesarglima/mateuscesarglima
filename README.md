@@ -16,6 +16,10 @@
 
   
  ##
+  
+  
+### Skills Set
+  
 <div align="center">
 <kbd align="center">
 <kbd>Estudando:</kbd>

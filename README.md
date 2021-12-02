@@ -1,7 +1,7 @@
 # Faaaaala pessoal! Sejam bem vindos ao meu mundo 🌎
 
 - 📖 Estudante de Sistemas de Informação, 4º semestre
-- 💻 Aprofundando conhecimentos em JavaScript, NodeJS, ReactJS
+- 💻 Aprofundando conhecimentos em JavaScript, NodeJS
 - 💙 Apaixonado por tecnologia!
 
 ##

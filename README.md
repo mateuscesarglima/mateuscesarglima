@@ -3,7 +3,6 @@
 - 🍀 21 anos
 - 📖 Estudante de Sistemas de Informação no Centro Universitário 7 de Setembro, atualmente cursando o 4º semestre
 - 🗺️ Fortaleza, CE ⛱️
-- 💻 Aprofundando conhecimentos em JavaScript, NodeJS
 - 💙 Apaixonado por tecnologia!
 
 ##

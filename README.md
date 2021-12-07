@@ -34,7 +34,7 @@
  <br />
 </kbd> 
   <kbd align="center">
-<kbd>Estudando:</kbd>
+<kbd>Aprofudando Conhecimento:</kbd>
  <br />
  <br />
   <img align="center" title="NodeJS" alt="Javascript-icon" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -46,7 +46,7 @@
 </kbd> 
 
 <kbd align="center">
-<kbd>Interesse em:</kbd> 
+<kbd>Interesse:</kbd> 
      <br />
      <br />
       <img align="center" title="TypeScript" alt="TypeScript" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 

@@ -26,10 +26,10 @@
 <kbd>Conhecimento:</kbd>
  <br />
  <br />
-  <img align="center" title="NodeJS" alt="Javascript-icon" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" title="javaScript" alt="Javascript-icon" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" title="NodeJS" alt="NodeJS-icon" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"> 
-  <img align="center" title="NodeJS" alt="java-icon" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" title="NodeJS" alt="spring-icon" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" title="java" alt="java-icon" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" title="spring" alt="spring-icon" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <br />
  <br />
 </kbd> 

@@ -1,7 +1,7 @@
 # Faaaaala pessoal! Sejam bem-vindos ao meu mundo 🌎
 
 - 🍀 21 anos
-- 📖 Estudante de Sistemas de Informação no Centro Universitário 7 de Setembro, atualmente cursando o 4º semestre
+- 📖 Estudante de Sistemas de Informação no Centro Universitário 7 de Setembro, atualmente cursando o 5º semestre
 - 🗺️ Fortaleza, CE ⛱️
 - 💙 Apaixonado por tecnologia!
 

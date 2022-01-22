@@ -4,6 +4,7 @@
 - 📖 Estudante de Sistemas de Informação no Centro Universitário 7 de Setembro, atualmente cursando o 5º semestre
 - 🗺️ Fortaleza, CE ⛱️
 - 💙 Apaixonado por tecnologia!
+- 💻 Software Developer Intern at Instituto Atlântico 
 
 ##
 

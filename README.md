@@ -1,9 +1,8 @@
-# Faaaaala pessoal! Sejam bem-vindos ao meu mundo 🌎
+# Faaaaala pessoal! Welcome to my World! 🌎
 
-- 🍀 21 anos
-- 📖 Estudante de Sistemas de Informação no Centro Universitário 7 de Setembro, atualmente cursando o 5º semestre
+- 🍀 21 years
+- 📖 Information Systems student at University Center 7 de Setembro. 5º semester
 - 🗺️ Fortaleza, CE ⛱️
-- 💙 Apaixonado por tecnologia!
 - 💻 Software Developer Intern at Instituto Atlântico 
 
 ##
@@ -24,7 +23,7 @@
   
 
 <kbd align="center">
-<kbd>Conhecimento:</kbd>
+<kbd>Knowledge:</kbd>
  <br />
  <br />
   <img align="center" title="javaScript" alt="Javascript-icon" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -35,7 +34,7 @@
  <br />
 </kbd> 
   <kbd align="center">
-<kbd>Aprofudando Conhecimento:</kbd>
+<kbd>Deepening knowledge:</kbd>
  <br />
  <br />
   <img align="center" title="java" alt="java-icon" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -45,7 +44,7 @@
 </kbd> 
 
 <kbd align="center">
-<kbd>Interesse:</kbd> 
+<kbd>interest:</kbd> 
      <br />
      <br />
       <img align="center" title="TypeScript" alt="TypeScript" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
@@ -60,7 +59,7 @@
 
 ##
 
-### Redes Sociais
+### social networks
  
 <div> 
   <a href="https://www.instagram.com/_mateuscesar_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>

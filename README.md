@@ -6,7 +6,6 @@
 - 💻 Software Developer Intern at Instituto Atlântico 
 ```
 ##
-
 ### Github Status
 
 <div align="center" style="display: inline-block;">

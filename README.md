@@ -39,7 +39,8 @@
   <img align="center" title="java" alt="java-icon" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img align="center" title="spring" alt="spring-icon" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> 
      <img align="center" title="React" alt="React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-          <img align="center" title="TypeScript" alt="TypeScript" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
+          <img align="center" title="TypeScript" alt="TypeScript" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+            <img align="center" title="React" alt="React" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
     <br />
  <br />
 </kbd> 

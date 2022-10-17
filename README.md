@@ -29,19 +29,9 @@
   <img align="center" title="NodeJS" alt="NodeJS-icon" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"> 
   <img align="center" title="java" alt="java-icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" title="spring" alt="spring-icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <br />
- <br />
-</kbd> 
-  <kbd align="center">
-<kbd>Deepening knowledge:</kbd>
- <br />
- <br />
-  <img align="center" title="java" alt="java-icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img align="center" title="spring" alt="spring-icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> 
-     <img align="center" title="React" alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-          <img align="center" title="TypeScript" alt="TypeScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-            <img align="center" title="React" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-    <br />
+ <img align="center" title="React" alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" title="TypeScript" alt="TypeScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<br />
  <br />
 </kbd> 
 

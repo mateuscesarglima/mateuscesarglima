@@ -1,7 +1,7 @@
 # Faaaaala pessoal! Welcome to my World! 🌎
 ```
 - 🍀 22 years
-- 📖 Information Systems student at University Center 7 de Setembro. 5º semester
+- 📖 Information Systems student at University Center 7 de Setembro. 7º semester
 - 🗺️ Fortaleza, CE ⛱️
 - 💻 Software Developer Intern at Instituto Atlântico 
 ```

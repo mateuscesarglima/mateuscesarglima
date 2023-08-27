@@ -3,7 +3,7 @@
 - 🍀 23 years
 - 📖 Information Systems student at University Center 7 de Setembro. 8º semester (last one)
 - 🗺️ Fortaleza, CE ⛱️
-- 💻 Software Developer at Instituto Atlântico 
+- 💻 Software Engineer at Instituto Atlântico 
 ```
 ##
 ### Github Status

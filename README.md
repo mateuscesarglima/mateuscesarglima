@@ -9,7 +9,8 @@
 
 ### ADOO Diários Oficiais
 
- - <a href="https://www.adoo.com.br/" />Web site link<a/>
+ - <a href="https://trello.com/b/84LuEmr9/uni7-workshop" />Figma<a/>
+  - <a href="https://trello.com/invite/b/84LuEmr9/ATTIf21835b195573654f44e1fb5b560c9f719C08113/uni7-workshop" />Trello<a/>
  - <a href="https://play.google.com/store/apps/details?id=com.adoo.app&hl=pt_BR&gl=US&pli=1" />Play Store app<a/>
  - <a href="https://apps.apple.com/br/app/adoo/id1529677418" />App store<a/>
  
